@@ -1,0 +1,10 @@
+{
+	name: "query-tools",
+	source: [
+
+		"index.js"	
+	],
+
+	style: [
+	]
+}
